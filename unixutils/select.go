@@ -11,7 +11,7 @@ package unixutils
 import (
 	"time"
 
-	"github.com/creack/goselect"
+	"github.com/zgwit/goselect"
 )
 
 // FDSet is a set of file descriptors suitable for a select call

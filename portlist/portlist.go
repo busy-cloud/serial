@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"go.bug.st/serial/enumerator"
+	"github.com/busy-cloud/serial/enumerator"
 )
 
 func main() {
